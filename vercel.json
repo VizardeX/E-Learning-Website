@@ -1,0 +1,10 @@
+{
+    "rootDirectory": "frontend",
+    "rewrites": [
+      {
+        "source": "/backend/(.*)",
+        "destination": "/backend/$1"
+      }
+    ]
+  }
+  
