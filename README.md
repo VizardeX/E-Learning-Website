@@ -19,21 +19,18 @@ This project is a feature-rich E-Learning platform built with NestJS, MongoDB, a
 - Attempt adaptive quizzes and view results
 - Track learning progress and performance analytics
 - Send messages to instructors or peers
-- Participate in course discussions
-- Write and manage personal study notes
 
 #### Instructor
 - Create and manage courses and modules
 - Add multimedia content to lessons
 - Create quizzes for the students
-- Monitor student activity and download reports
-- Reply to student messages and forum posts
+- Monitor student activity
+- Reply to student messages
 - Announce course updates via notifications
 
 #### Administrator
 - Full access to all system data
 - View, search, and manage users (students and instructors)
-- Moderate discussion forums
 - Manage system logs and data backups
 - Oversee platform-wide activity and enforce rules
 
@@ -52,15 +49,11 @@ This project is a feature-rich E-Learning platform built with NestJS, MongoDB, a
 ### Performance Analytics
 - Student dashboards with progress, scores, and performance trends
 - Instructor dashboards with engagement reports and analytics
-- Data visualization tools for insights into learning behavior
 
 ### Communication Tools
 - Real-time chat between students and instructors
 - Threaded discussion forums per course/module
 - Message history and notifications for replies and updates
-
-### Notes and Personal Tools
-- Quick Notes: personal note-taking area for students
 - Notifications for announcements, new content, and activity
 
 ## Technologies Used
